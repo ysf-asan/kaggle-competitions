@@ -5,8 +5,7 @@ Kaggle yarışma çalışmaları.
 | Klasör | Yarışma | Durum |
 |---|---|---|
 | [`titanic/`](titanic/) | Titanic – Machine Learning from Disaster | Tamamlandı. Model CV 0.8365 (gerçek test 0.7847); ayrıca kamuya açık yolcu kayıtlarıyla 1.00000 eşleme. |
-| [`ev/`](ev/) | House Prices – Advanced Regression Techniques | Tamamlandı. 11 modelin NNLS harmanı, CV RMSE 0.10471 (iç içe doğrulanmış 0.10562). |
-| [`arc-prize-2026/`](arc-prize-2026/) | ARC Prize 2026 (AGI-2 / AGI-3 / Paper Track) | Hazırlık. Son gönderim 2 ve 9 Kasım 2026. |
+| [`house-prices/`](house-prices/) | House Prices – Advanced Regression Techniques | Tamamlandı. 11 modelin NNLS harmanı, CV RMSE 0.10471 (iç içe doğrulanmış 0.10562). |
 
 Her klasörün kendi `README.md`'si yaklaşımı ve sonuçları anlatır.
 
