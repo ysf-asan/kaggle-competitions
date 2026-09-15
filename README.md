@@ -6,7 +6,7 @@ Kaggle yarışma çalışmaları.
 |---|---|---|
 | [`titanic/`](titanic/) | Titanic – Machine Learning from Disaster | Tamamlandı. Model CV 0.8365 (gerçek test 0.7847); ayrıca kamuya açık yolcu kayıtlarıyla 1.00000 eşleme. |
 | [`house-prices/`](house-prices/) | House Prices – Advanced Regression Techniques | Tamamlandı. 11 modelin NNLS harmanı, CV RMSE 0.10471 (iç içe doğrulanmış 0.10562). |
-| [`arc-prize-2026/`](arc-prize-2026/) | Total Score 25.69 |
+| [`arc-prize-2026/`](arc-prize-2026/) | Total Score 25.69 | Done
 
 
 Her klasörün kendi `README.md`'si yaklaşımı ve sonuçları anlatır.
